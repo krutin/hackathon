@@ -1,0 +1,24 @@
+Storyboard is an attempt to explain the functionality by depticing stories on how different users will use this App.
+
+So far it has 4 parts
+
+Ugly Daily User:
+--This is anyone on/off the road who wants to report Uglyness 
+--Uploaded 1 Story :: ugly_daily_user.jpg
+
+Ugly Admin
+-- This is the reputed team of Ugly India who manages Posts.
+-- Admins are segregated based on assigned area (preferably where they live)
+-- Responsible to Approve/Reject Posts
+-- Responsible to estimate/guestimate contributors required to fix and set deadline
+-- Responsible to Track and Manage Spot fix operations responsible for
+-- Can also be Ugly Leader and Ugly Contributor
+-- Uploaded 1 Story :: ugly_admin.jpg
+
+Ugly Leader:
+-- Leads Spot Fixes in the area assigned.
+-- Yet to upload story
+
+Ugly Contributor:
+-- Yet to upload story
+
